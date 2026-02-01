@@ -21,7 +21,7 @@ I’m a **Computer Science graduate with a strong focus on Interaction Design, I
 
 
 
-📫 **Let’s talk**
+**Let’s talk**
 If you’re into interaction design, interfaces, or human‑centered tech — I’m always happy to exchange ideas.
 
 
